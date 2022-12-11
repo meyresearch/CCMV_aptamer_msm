@@ -1,6 +1,6 @@
 # CCMV_aptamer_msm
 
-This is the repository for analysing CCMV simulation data using Markov State Model (MSM).
+This repository contains the analysis of CCMV simulation data using Markov State Model (MSM).
 
 MD simulation input files can be found at [md](./md)
 
